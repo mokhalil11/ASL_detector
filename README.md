@@ -6,7 +6,7 @@ This is an object detection project for detecting American sign language (ASL) a
 -  [Importance](#Importance)
 ## Introduction
 This project uses the YOLOV5 model, a popular object detection model with great speed and accuracy. Here I used the model to detect the English alphabets with American sign language.
-##How-to-use
+## How-to-use
 ###Using my weights
 1-Clone this repository to your local machine:
 ## Importance
