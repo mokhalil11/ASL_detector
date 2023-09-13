@@ -11,7 +11,7 @@ This project uses the YOLOV5 model, a popular object detection model with great 
 1-Clone this repository to your local machine:
 
  ```shell
-   git clone https://github.com/yourusername/ASL_detector.git
+   git clone https://github.com/yourusername/ASL_detector.git](https://github.com/mokhalil11/ASL_detector.git
    ```
 2-Install requirements:
  ```shell
